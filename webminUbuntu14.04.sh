@@ -1,6 +1,6 @@
 ﻿#!/bin/bash
 #
-# Original script by GM# Mod by GM TAPTAP
+# Original script by GM# Mod by GM TAP
 # ==================================================
 # go to root
 cd

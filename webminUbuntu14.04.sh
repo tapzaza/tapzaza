@@ -1,6 +1,6 @@
 ﻿#!/bin/bash
 #
-# Original script by GM# Mod by GM NIPON
+# Original script by GM# Mod by GM TAPTAP
 # ==================================================
 # go to root
 cd

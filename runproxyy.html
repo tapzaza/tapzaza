@@ -1,0 +1,11 @@
+#!/bin/bash
+apt-get update && apt-get upgrade
+
+
+apt-get install squid3
+echo "http_access allow all
+http_port 80
+http_port 8080 
+http_port 8000" >  /etc/squid3/squid.conf
+service squid3 restart
+echo "<BODY text='#ffffff'>"

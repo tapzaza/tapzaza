@@ -279,14 +279,14 @@ transition:0.5s ease;
           <table BORDERCOLOR="#33FFFF" width="600" border="1" cellspacing="0" cellpadding="0">
             <tr>
               <td><center>
-                <font color="#D02090">นี้คือระบบ VPN ที่รันบน VPS 100% ด้วยระบบจัดการที่ทันสมัยรองรับการเชื่อมต่อทุกโปรแกรมบนอุปรกรณ์ มือถือและคอมพิวเตอร์ พร้อมด้วยระบบตั้งค่าความปลอดภัย ติดตั้งระบบได้ที่    เบอร์โทรศพท์;0940749370 <a href="https://m.facebook.com/?_rdr"><font color="#FF0033">คลิ๊ก!</font></a>มีเทสความเร็ว <a href="https://fast.com"><font color="#FFFF0000">Test Speed</font></a>
+                <font color="#D02090">นี้คือระบบ VPN ที่รันบน VPS 100% ด้วยระบบจัดการที่ทันสมัยรองรับการเชื่อมต่อทุกโปรแกรมบนอุปรกรณ์ มือถือและคอมพิวเตอร์ พร้อมด้วยระบบตั้งค่าความปลอดภัย ติดตั้งระบบได้ที่    เบอร์โทรศพท์;0864766424 <a href="https://m.facebook.com/tapthai><font color="#FF0033">คลิ๊ก!</font></a>มีเทสความเร็ว <a href="https://fast.com"><font color="#FFFF0000">Test Speed</font></a>
               </center></td>
             </tr>
           </table>
       </center>
     </div>
     <div id="footer">
-	<p>Facebook : <a href="https://m.facebook.com/tapthai">Tapthai Sangprasit</a> Email : niopn56@gmail.com</p>
+	<p>Facebook : <a href="https://m.facebook.com/tapthai">Tapthai Sangprasit</a> Line : s.tapthai</p>
       <p><font color="#ADFF2F">&copy;2017-2022 ลิขสิทธิ์ VPN-GM Server โดย <a href="Line: s.tapthai"><font color="#66FF33">GM-TH-Security</a><font color="#87CEFA">(ห้ามแก้ไขหน้าระบบโดยไม่ได้รับอนุณาติไม่งั้นไม่รับผิดขอบนะครับ!)</p>
 
     </div>

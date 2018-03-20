@@ -286,8 +286,8 @@ transition:0.5s ease;
       </center>
     </div>
     <div id="footer">
-	<p>Facebook : <a href="https://m.facebook.com/?_rdr">Nipon Kaewtes</a> Email : niopn56@gmail.com</p>
-      <p><font color="#ADFF2F">&copy;2017-2022 ลิขสิทธิ์ VPN-GM Server โดย <a href="Facebook: nipon kaewtes"><font color="#66FF33">GM-TH-Security</a><font color="#87CEFA">(ห้ามแก้ไขหน้าระบบโดยไม่ได้รับอนุณาติไม่งั้นไม่รับผิดขอบนะครับ!)</p>
+	<p>Facebook : <a href="https://m.facebook.com/tapthai">Tapthai Sangprasit</a> Email : niopn56@gmail.com</p>
+      <p><font color="#ADFF2F">&copy;2017-2022 ลิขสิทธิ์ VPN-GM Server โดย <a href="Line: s.tapthai"><font color="#66FF33">GM-TH-Security</a><font color="#87CEFA">(ห้ามแก้ไขหน้าระบบโดยไม่ได้รับอนุณาติไม่งั้นไม่รับผิดขอบนะครับ!)</p>
 
     </div>
   </div>

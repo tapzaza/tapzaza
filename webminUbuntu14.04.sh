@@ -72,19 +72,19 @@ tar xzf vnstat_php_frontend-1.5.1.tar.gz
 mv vnstat_php_frontend-1.5.1 /var/www/html/vnstat
 sed -i s/nl/th/g /var/www/html/vnstat/config.php;
 #sed -i s/80/85/g /etc/apache2/ports.conf;
-wget -O /var/www/html/vnstat/lang/th.php "https://raw.githubusercontent.com/gmchoke/A/master/th.php"
-wget -O /var/www/html/vnstat/index.php "https://raw.githubusercontent.com/gmchoke/A/master/index.php"
+wget -O /var/www/html/vnstat/lang/th.php "https://raw.githubusercontent.com/tapzaza/tapzaza/master/th.php"
+wget -O /var/www/html/vnstat/index.php "https://raw.githubusercontent.com/tapzaza/tapzaza/master/index.php"
 sed -i s/xxxxxxxxxx/http/g /var/www/html/vnstat/index.php;
 wget -O /var/www/html/vnstat/openvpn-as.png "https://docs.google.com/uc?export=download&id=1cmgyFpofMxFMQApLf2G4C7woQCc032rf"
-wget -O /etc/apache2/sites-enabled/000-default.conf "https://raw.githubusercontent.com/gmchoke/A/master/000-default.conf"
+wget -O /etc/apache2/sites-enabled/000-default.conf "https://raw.githubusercontent.com/tapzaza/tapzaza/master/000-default.conf"
 sed -i s/85/80/g /etc/apache2/sites-enabled/000-default.conf;
 sed -i s/85/10000/g /var/www/html/vnstat/index.php;
 cd
-wget -O client.ovpn "https://raw.githubusercontent.com/gmchoke/A/master/client.ovpn"
+wget -O client.ovpn "https://raw.githubusercontent.com/tapzaza/tapzaza/master/client.ovpn"
 MYIP=$(wget -qO- ipv4.icanhazip.com);
 sed -i s/xxxxxxxx/$MYIP/g client.ovpn;
 mv client.ovpn /var/www/html/vnstat/
-wget -O /var/www/html/vnstat/client.php "https://raw.githubusercontent.com/gmchoke/A/master/client.php"
+wget -O /var/www/html/vnstat/client.php "https://raw.githubusercontent.com/tapzaza/tapzaza/master/client.php"
 sed -i s/client.zip/client.php/g /var/www/html/vnstat/index.php;
 
 sudo service apache2 restart
@@ -97,10 +97,10 @@ echo "Script WebMin Auto Install"
 echo -e "\033[01;34m-----------------------------\033[0m"
 echo -e "\033[01;31mInstall on 'Ubuntu 14.04' Only \033[0m"
 echo -e "\033[01;34m-----------------------------\033[0m"
-echo "FaceBook Name : Palladium Actinium"
-echo "FaceBook Url : https://www.facebook.com/100003964048764"
-echo "Email : niopn56@gmail.com"
-echo "TimeZone :  Nakhonsawan "
+echo "FaceBook Name : Tapthai Sangprasit"
+echo "FaceBook Url : https://www.facebook.com/tapthai"
+echo "Email : tapzanaluk@gmail.com"
+echo "TimeZone :  Bangkok "
 echo "Traffic  :  http://$MYIP/"
 echo "WebMin   :  http://$MYIP:10000/"
 echo -e "\033[01;34m-----------------------------\033[0m"
